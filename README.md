@@ -17,10 +17,10 @@ crontab -e
 
 crontab should be the following:
 ```
-0 */3 * * * /delegate.sh
+0 */1 * * * /delegate.sh
 ```
 
-This crontab code means that provides to run the delegate.sh for every 3 hours.
+This crontab code means that provides to run the delegate.sh for every 1 hour.
 You can set it for whatever timing you want.
 
 An example output should be:
@@ -28,4 +28,5 @@ An example output should be:
 
 
 An example of crontab screen should be:
-![image](https://user-images.githubusercontent.com/59064310/147858246-686b98e9-827d-4d7c-a4fb-f59e2cc496b2.png)
+![image](https://user-images.githubusercontent.com/59064310/147858332-a580fe5c-7edf-4089-8c86-3832c9909297.png)
+
