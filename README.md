@@ -25,3 +25,7 @@ You can set it for whatever timing you want.
 
 An example output should be:
 ![image](https://user-images.githubusercontent.com/59064310/147858200-5a7134d6-8460-4767-9b1d-e43655e68e17.png)
+
+
+An example of crontab screen should be:
+![image](https://user-images.githubusercontent.com/59064310/147858246-686b98e9-827d-4d7c-a4fb-f59e2cc496b2.png)
