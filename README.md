@@ -12,14 +12,10 @@ chmod +x delegate.sh
 Set the configuration properties in delegate.sh according to you
 ```
 sudo nano delegate.sh
-```
-
-crontab should be the following:
-```
 crontab -e
 ```
 
-Write as following:
+crontab should be the following:
 ```
 0 */3 * * * /delegate.sh
 ```
